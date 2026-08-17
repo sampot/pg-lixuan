@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "rev": "d17319c",
+  "files": [
+    "app.js",
+    "assets/audio/campaign-loop.ogg",
+    "assets/audio/click.ogg",
+    "assets/audio/hover.ogg",
+    "assets/audio/success.ogg",
+    "assets/fonts/Cubic_11.woff2",
+    "assets/images/character.png",
+    "assets/images/flag.png",
+    "assets/images/happy.png",
+    "assets/images/idea.png",
+    "assets/images/notepad.png",
+    "assets/images/question.png",
+    "assets/licenses/cubic-11-ofl.txt",
+    "assets/licenses/kenney-board-game-icons.txt",
+    "assets/licenses/kenney-emotes.txt",
+    "assets/licenses/kenney-ui-audio.txt",
+    "assets/licenses/not-jam-music.txt",
+    "audio.js",
+    "functions.js",
+    "game.js",
+    "index.html",
+    "persist.js",
+    "styles.css"
+  ]
+}
